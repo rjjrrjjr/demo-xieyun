@@ -159,6 +159,19 @@
 			<version>2.10.1</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/ch.ethz.ganymed/ganymed-ssh2 -->
+		<dependency>
+			<groupId>ch.ethz.ganymed</groupId>
+			<artifactId>ganymed-ssh2</artifactId>
+			<version>build210</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.jcraft/jsch -->
+		<dependency>
+			<groupId>com.jcraft</groupId>
+			<artifactId>jsch</artifactId>
+			<version>0.1.54</version>
+		</dependency>
 	</dependencies>
 
 	<build>
